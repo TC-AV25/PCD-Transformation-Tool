@@ -1,0 +1,11 @@
+input_pcd: "./data/pointcloud_map.pcd"
+output_pcd: "./data/transformed/map_transformed.pcd"
+
+# Rotation in degrees
+rotation_deg: 0.0
+
+# Translation in meters
+translation:
+  x: 0.0
+  y: 0.0
+  z: 0.0
